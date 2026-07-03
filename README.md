@@ -6,7 +6,7 @@ This repo is a small experimental shell utility for first-pass photo review. It 
 
 ## V2 Coming Soon
 
-https://github.com/Newport1/apple-foundation-models-photo-rater/issues/2
+[Click Here](https://github.com/Newport1/apple-foundation-models-photo-rater/issues/2)
 
 ## What it does
 
