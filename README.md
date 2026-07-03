@@ -4,6 +4,10 @@ Batch-rate a folder of photos with Apple Foundation Models through the `fm` CLI 
 
 This repo is a small experimental shell utility for first-pass photo review. It loops through local image files, sends each image to `fm respond --image`, asks for a quality score, extracts the numeric rating, and writes the result to a CSV file. - can also be easily modified/used as a general apple foundation model vision batch processing script. edit prompt to whatever you need
 
+## V2 Coming Soon
+
+https://github.com/Newport1/apple-foundation-models-photo-rater/issues/2
+
 ## What it does
 
 - Rates photos on a `1-50` quality scale.
