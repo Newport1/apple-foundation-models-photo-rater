@@ -31,8 +31,8 @@ fm respond --image /path/to/photo.png "Rate image quality on a scale of 1-50. St
 ## Quick start
 
 ```zsh
-git clone https://github.com/Newport1/Apple-Foundational-Model-Photo-rating.git
-cd Apple-Foundational-Model-Photo-rating
+git clone https://github.com/Newport1/apple-foundation-models-photo-rater.git
+cd apple-foundation-models-photo-rater
 chmod +x rate_images_fm.zsh
 ./rate_images_fm.zsh /path/to/image/folder /path/to/output.csv
 ```
